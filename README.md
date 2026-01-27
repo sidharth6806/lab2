@@ -1,2 +1,2 @@
-# lab2
-labwork
+# python lab
+labwork 
